@@ -2,7 +2,7 @@
 layout: post
 title:  "Init 1: Maintenance Mode for Your Life"
 date:   2020-11-15 17:00:05 -0800
-categories: init1
+categories: meditation
 ---
 `init 1` is a UNIX run-level that administrators use in order to perform some kind of low level maintenance task. She knows that when she boots up into run-level 1 she is gaining complete, unrestricted access to the machine. There is no networking and no extraneous processes to deal with, and all you have to work with are the tools that are part of the core operating system.
 

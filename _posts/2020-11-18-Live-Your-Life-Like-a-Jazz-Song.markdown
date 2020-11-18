@@ -4,7 +4,7 @@ title:  "Live Your Life Like a Jazz Song"
 date:   2020-11-18 13:00:00 -0800
 categories: life
 ---
-### Live Your Life Like a Jazz Song
+### Same Old Song and Dance?
 
 I really like listening to jazz music. There are lots of different styles of jazz, but Free jazz, or Avant-garde jazz hit me in a way that's hard to describe. It's unexpected, sometimes shocking, and often beautiful. I started thinking about how these jazz musicians decided to experiment with sound and really wanted to create something new. Traditional chords and tempos were cast aside. It kept you on your toes. You might not like it the first time you hear it, or the hundredth time, but that's OK if it's not for you. Everyone is unique, and I think jazz music is a reflection of the human condition.
 

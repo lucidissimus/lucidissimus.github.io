@@ -4,9 +4,9 @@ title:  "Init 1: Maintenance Mode for Your Life"
 date:   2020-11-15 17:00:05 -0800
 categories: init1
 ---
-`init 1` is a UNIX run level that administrators use in order to perform some kind of low level maintenance task. She knows that when you boot up into run-level 1 you are gaining complete, unrestricted access to the machine. There is no networking and no extraneous processes to deal with, and all you have to work with are the tools that are part of the core operating system.
+`init 1` is a UNIX run-level that administrators use in order to perform some kind of low level maintenance task. She knows that when she boots up into run-level 1 she is gaining complete, unrestricted access to the machine. There is no networking and no extraneous processes to deal with, and all you have to work with are the tools that are part of the core operating system.
 
-I like to think of init 1 as analogous to meditation. Sometimes you need to quiet the mind and drop down to a low level so you can regain control of your life. It doesn't necessarily need to be through meditation, everyone is different and may have their own system they feel comfortable with. But for me that process is taking some deep breaths, and letting thoughts come and go. This first post will explain what led me to meditation and why I feel it has helped me regain control of my life.
+I like to think of init 1 as being analogous to meditation. Sometimes you need to quiet the mind and drop down to a low level so you can regain control of your life. It doesn't necessarily need to be through meditation, everyone is different and may have their own system they feel comfortable with. But for me that process is taking some deep breaths, and letting thoughts come and go. This first post will explain what led me to meditation and why I feel it has helped me regain control of my life.
 
 ### The Rise and Fall of a Tech Worker
 

@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Tips on Deep Learning"
+date:   2020-12-08 08:00:00 -0800
+categories: life
+---
+It is interesting how work can affect your personality, it can slowly shape you like an artist chisels away at stone. In my youth I remember being obsessed over various things. I would devote my free time to learning about some new topic that I stumbled upon. Be it chess, or chemistry, or geology, or whatever I happened to pique my interest. And once I started digging deeper into that subject, my fascination kept me going, time meant nothing as I was fully focused on the matter at hand. And, let's face it, I had no responsibilities so free time was something I had plenty of.
+
+Then I grew up and started working. There was no time to dive deep into the waters, my job was to dip my toe just enough to proclaim, "The water's fine, come on in!", and then I was off to fix another problem. Over time this changed my behavior towards learning. I would bounce from subject to subject, learning just enough to solve the problem at hand, but never enough to truly appreciate what I was learning. It made me a valuable resource to the companies I've worked at, but at the cost of becoming a shallow learner.
+
+You may be in the same boat as I am, if you are then let me start by saying, "Welcome aboard." There's no time like the present to change. You might laugh at the notion of spending time to learn something deeply. Where are you going to find this time when there are so many other things going on that demand your attention? But look around your daily schedule, do you really not have some spare time here and there? It's like finding spare change throughout your house, it might be a quarter here and a nickel there, but add them all up and you have enough to do a load of laundry. You owe it to yourself to try this. So many people posses the same kind of shallow knowledge, but the ones who truly understand a subject are the special ones. Here's what I do to get past the surface of the water, and dive deep to discover the wonders hidden beneath.
+
+### Get those index cards ready, you're going to need them.
+- Look at your daily schedule and figure out where you can spend at least 15-30 minutes of quiet focus on your subject. Set your alarm to create a habit.
+- Find someplace quiet and read the article, or compile the program, or whatever it is you're gaining the knowledge from. Spend the first minute rebooting your mind into single-user mode.
+- Take notes! When you're starting, just write or type something down. Make sure you take the time to jot down the information source so you can go back later if you need to (you'll thank me later).
+- When your time is up, stop everything. It's time to focus on your work now. Feel good about learning something new.
+
+What you're trying to do is develop a habit. A lot of times we don't do something because our minds are coming up with all sorts of excuses. The easiest way to tame this behavior is to quit thinking and just do it. When that alarm goes off pick up that book, go to that blog post, or watch that video. Over time you will find yourself immediately switching to learning mode and you will become very efficient in learning. This is kind of the essence of the Lucidissimus project, combining meditation techniques to free your mind to focus on obtaining more knowledge. If you can't achieve full focus on the thing you are doing, it will be too challenging to keep drilling down on a subject because you'll find yourself constantly being distracted. But when you are deep in the zone, the distractions are still happening all around you. The difference is that you're training your mind to quickly catch itself when it's wandering. It takes a lot of practice, but it does get easier over time. Throughout this blog site I'll give you the tips that have worked for me, and hopefully will work for you.

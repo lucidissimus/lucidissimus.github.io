@@ -4,7 +4,7 @@ title:  "Tips on Deep Learning"
 date:   2020-12-08 08:00:00 -0800
 categories: life
 ---
-It is interesting how work can affect your personality, it can slowly shape you like an artist chisels away at stone. In my youth I remember being obsessed over various things. I would devote my free time to learning about some new topic that I stumbled upon. Be it chess, or chemistry, or geology, or whatever I happened to pique my interest. And once I started digging deeper into that subject, my fascination kept me going, time meant nothing as I was fully focused on the matter at hand. And, let's face it, I had no responsibilities so free time was something I had plenty of.
+It is interesting how work can affect your personality, it can slowly shape you like an artist chisels away at stone. In my youth I remember being obsessed over various things. I would devote my free time to learning about some new topic that I stumbled upon. Be it chess, or chemistry, or geology, or whatever happened to pique my interest. And once I started digging deeper into that subject, my fascination kept me going, time meant nothing as I was fully focused on the matter at hand. And, let's face it, I had no responsibilities so free time was something I had plenty of.
 
 Then I grew up and started working. There was no time to dive deep into the waters, my job was to dip my toe just enough to proclaim, "The water's fine, come on in!", and then I was off to fix another problem. Over time this changed my behavior towards learning. I would bounce from subject to subject, learning just enough to solve the problem at hand, but never enough to truly appreciate what I was learning. It made me a valuable resource to the companies I've worked at, but at the cost of becoming a shallow learner.
 
